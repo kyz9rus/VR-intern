@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-VR intern built the VR intern app as a Free app. This SERVICE is provided by VR intern at no cost and is intended for use as is.
+VR intern built the VR intern app as a Commercial app. This SERVICE is provided by VR intern and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -18,7 +18,6 @@ Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
 
 **Log Data**
 
